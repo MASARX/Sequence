@@ -2,11 +2,11 @@
 Write a sequence with letters s for *, b for blank, n for new line and digit for times(x).
 
 
-import java.util.Scanner;
+	import java.util.Scanner;
 
-//Image printer program
+	//Image printer program
 
-public class Pro3_1_150116011 {
+	public class Pro3_1_150116011 {
 
 	public static void main(String[] args) {
 		
@@ -64,4 +64,11 @@ public class Pro3_1_150116011 {
         } // Finally we control the characters and prints what it means.
         }
 	}
-}
+	}
+For example when you input this sequence s1b2nbnbbssns,
+it returns:
+* 
+
+ 
+  **
+*
